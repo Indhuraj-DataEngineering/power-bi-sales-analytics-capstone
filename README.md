@@ -7,7 +7,7 @@ The dashboard provides insights into revenue, profit, cost, orders, customers, p
 
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard](PowerBI_Dashboard.png)
+![Power BI Dashboard](Sales_Performance_Dashboard.png)
 
 ## 🎯 Key Metrics
 - Total Revenue
